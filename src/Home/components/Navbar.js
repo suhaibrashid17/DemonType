@@ -15,7 +15,7 @@ function Navbar(){
             </div>
             <div className="text-white font-bloodcrow mr-12">
                 <ul class="flex">
-                    <li onClick={()=>handleProfileClicked()}><img src={process.env.PUBLIC_URL+"./profile.jpg"} className="inline-block hover:cursor-pointer hover:scale-105 hover:opacity-75 w-14 border border-4 border-white rounded-full"></img></li>
+                    <li onClick={()=>handleProfileClicked()}><img src={process.env.PUBLIC_URL+"../profile.jpg"} className="inline-block hover:cursor-pointer hover:scale-105 hover:opacity-75 w-14 border border-4 border-white rounded-full"></img></li>
                 </ul>
             
             </div>

@@ -22,7 +22,7 @@ function LoginPage() {
     <div className="flex lg:flex-row md:flex-row flex-col lg:justify-around md:justify-around lg:items-start md:items-start items-center bg-pitchBlack min-h-screen min-w-screen">
       <img
         className="flex items-center w-96 mt-6"
-        src={process.env.PUBLIC_URL + "./akaza.jpg"}
+        src={process.env.PUBLIC_URL + "./akazaa.jpg"}
       ></img>
        <LoginForm></LoginForm>
        {!isMobile&&(

@@ -1,0 +1,82 @@
+{
+    "levels":[
+      {
+         "level":"1",
+         "name":"kyogai",
+         "text":"Kyogai's Blood Demon Art. Kyogai wields 6 Tsuzumi drums on different parts of his body, with each drum having a single supernatural effect on the environment of his mansion when played.",
+         "time":"90"
+      },
+      {
+        "level":"2",
+        "name":"Rui",
+        "text":"Rui's Blood Demon Art allowed him to create thin threads indiscernible from string from his own flesh and manipulate them however he pleased. He typically extended the threads from his fingertips like a puppet master.",
+        "time":"85"
+      },
+      {
+        "level":"3",
+        "name":"Mukago",
+        "text":"Little was known about Mukago's strength and abilities as a demon, but it can be assumed that she was stronger than an average demon and superior in power to Kamanue, as she was given a higher Lower Rank position than him.",
+        "time":"80"
+      },
+      {
+        "level":"4",
+        "name":"Wakuraba",
+        "text":"Wakuraba's true strength remains unknown due to the Demon Kings act of killing him, and it was apparent that he paled in comparison to the likes of Rui and Enmu. He at least showed enough confidence in himself when he plotted to try and escape his master in an unfamiliar location.",
+        "time":"75"
+      },
+      {
+        "level":"5",
+        "name":"Rokuro",
+        "text":"Rokuro would have evidently been a very strong demon as the only demon ranked above him was the very powerful Enmu, and he claims that he can acclimate a portion of Muzans blood without fail, which has been shown to induce torturous pain even in low amounts. ",
+        "time":"70"
+      },
+      {
+        "level":"6",
+        "name":"Enmu",
+        "text":"Enmu's Blood Demon Art granted him the ability to force anyone into a deep sleep. He can do this through different means, some more subtle than others, but all effectively leaving his foes vulnerable and unable to fight. The slumber induced was very potent and took considerable effort to wake up, as seen when Nezuko headbutted Tanjiro quite hard but failed to awaken him.",
+        "time":"65"
+      },
+      {
+        "level":"7",
+        "name":"Kaigaku",
+        "text":"Complementing his Breathing Style,s Thunder Breathing, Kaigaku's Blood Demon Art grants him special electrokinetic abilities which allow him to generate and manipulate black colored lightning and electricity from his flesh and blood. This lightning-like Blood Demon Art creates a special effect which cracks and rends his target's flesh while burning it, greatly augmenting the lethality and offensive capability of his attacks.",
+        "time":"55"
+      },
+      {
+        "level":"8",
+        "name":"Gyokko",
+        "text":"Gyokko's Blood Demon Art revolved around his porcelain vases. He was able to spawn them anywhere within his vicinity and create multiple pots of varying sizes at once. Gyokko first displayed the ability to freely teleport from one pot to another instantaneously, offsetting his lack of legs and allowing him to travel far distances with minimal effort as well as to evade attacks easily.",
+        "time":"50"
+      },
+      {
+        "level":"9",
+        "name":"Nakime",
+        "text":"Nakime's Blood Demon Art takes the form of an extra-dimensional space that houses a fortress of immense scale. As its owner, Nakime possesses absolute dominion over the space, being able to manipulate and alter it at will by simply strumming her biwa. In her fortress, there are countless rooms with seemingly endless variety, like an open room filled with giant pillars where the fight against Kokushibo took place",
+        "time":"45"
+      },
+      {
+        "level":"10",
+        "name":"Akaza",
+        "text":"Akaza's Blood Demon Art is centered around martial arts, combining the manipulation of destructive shockwaves and the Soryu style martial arts he mastered when he was a human. The shockwaves Akaza manipulates are blue in color and can take on many forms, such as nigh-invisible air pressure,circular energy-like shockwaves,or cannon-shaped spikes.He is capable of generating them at will, from any distance, and seemingly from any part of his body. In combat, Akaza has his shockwaves accompany his own punches and kicks to amplify its destructive capabilities, enveloping his every strike in a faint blue light.",
+        "time":"40"
+      },
+      {
+        "level":"11",
+        "name":"Doma",
+        "text":"Doma's Blood Demon Art grants him extremely powerful cryokinesis. He can generate ice and frost from his flesh and blood and can spawn it anywhere in his vicinity, as well as manipulating it at will, allowing him to unleash incredibly potent ice techniques. Additionally, the ice created from his Blood Demon Art is extremely lethal to those that inhale it, causing the cells of the victim's lungs to die and rendering them unable to breathe very quickly.",
+        "time":"35"
+      },
+      {
+        "level":"12",
+        "name":"Kokushibo",
+        "text":"Complementing his Moon Breathing, Kokushibo's Blood Demon Art allows him to create and manipulate dozens of sharp blades shaped like traditional crescent moons from his flesh katana.They are implied to be created from his blood and can be either a bright yellow or a bright blue in color.These crescent moon blades are innately chaotic, constantly changing in size, direction and speed, making Kokushibo's attacks extremely unpredictable and unreadable as they have no set pattern at all.",
+        "time":"30"
+      },
+      {
+        "level":"13",
+        "name":"Muzan Kibutsuji",
+        "text":"Muzan's Blood Demon Art grants him powerful biokinetic abilities, most prominently the ability to manipulate his body at will and shapeshift instantly. Although all demons have the innate ability to manipulate their flesh, Muzan takes it to a new level, possessing the ability to change his appearance, flesh, and organs at an unparalleled level of speed and precision. This was first shown during the Lower Rank meeting where he took on the appearance and aura of an adult female which fooled the Lower Moons.He later contorted his left arm into a large, grotesque, and monstrous appendage with numerous mouths and eyes, which he used to kill and consume the Lower Ranks.[91] Afterwards, Muzan uses this ability to take on the appearance of a child to attain a new disguise amongst humans, even selectively shifting the color of his eyes when talking to Akaza.",
+        "time":"20"
+      }
+    ]
+}

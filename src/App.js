@@ -6,6 +6,7 @@ import SignUp from './pages/SignUp';
 import LoginPage from './pages/LoginPage';
 import HomePage from './pages/HomePage';
 import CheckLogin from './pages/CheckLogin';
+import LevelPage from './pages/LevelPage';
 const route=createBrowserRouter([
 {
    path:"/login",
@@ -18,6 +19,10 @@ const route=createBrowserRouter([
 {
    path:"/",
    element:<CheckLogin><HomePage></HomePage></CheckLogin>
+},
+{
+   path:"/level/:id",
+   element:<LevelPage></LevelPage>
 }
 ]  
 )
